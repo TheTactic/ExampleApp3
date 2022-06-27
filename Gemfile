@@ -36,6 +36,10 @@ gem "jbuilder"
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
 
+gem 'bootsnap'
+
+gem 'railties', '~> 5.0', '>= 5.0.0.1'
+
 gem 'openssl'
 
 gem 'activeadmin'
