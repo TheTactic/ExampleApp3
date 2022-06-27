@@ -1,4 +1,4 @@
-source "http://rubygems.org"#"https://rubygems.org"
+source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby "3.0.0"#"3.0.0"#"2.7.0"
@@ -40,7 +40,7 @@ gem "jbuilder"
 
 #gem 'railties', '~> 5.0', '>= 5.0.0.1'
 
-#gem 'openssl'
+gem 'openssl'
 
 gem 'activeadmin'
 
