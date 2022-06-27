@@ -40,7 +40,7 @@ gem "jbuilder"
 
 #gem 'railties', '~> 5.0', '>= 5.0.0.1'
 
-gem 'openssl'
+#gem 'openssl'
 
 gem 'activeadmin'
 
