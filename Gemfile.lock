@@ -1,5 +1,5 @@
 GEM
-  remote: http://rubygems.org/
+  remote: https://rubygems.org/
   specs:
     actioncable (7.0.3)
       actionpack (= 7.0.3)
@@ -305,7 +305,7 @@ DEPENDENCIES
   draper
   importmap-rails
   jbuilder
-  openssl
+  openssl (~> 3.0)
   puma (~> 5.0)
   pundit
   rails (~> 7.0.3)
@@ -319,7 +319,7 @@ DEPENDENCIES
   webdrivers
 
 RUBY VERSION
-   ruby 2.7.0p0
+   ruby 3.1.2p20
 
 BUNDLED WITH
    2.3.16
