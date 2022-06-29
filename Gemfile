@@ -43,7 +43,7 @@ gem "jbuilder"
 #gem 'openssl'
 gem 'openssl', '~> 3.0'
 
-gem 'activeadmin'
+#gem 'activeadmin'
 
 # Plus integrations with:
 gem 'devise'
